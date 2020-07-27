@@ -1,4 +1,4 @@
-# snowman
+# snowman <img src="https://image.flaticon.com/icons/svg/1206/1206585.svg" alt="snowman" width="30">
 <p>Do you wanna build a snowman?</p>
 <p>Come on, let's go and play!</p>
 <p>I never see you anymore</p>
