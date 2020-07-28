@@ -1,0 +1,20 @@
+body{
+    background-color: #e5e5e5;
+}
+
+.dots{
+    
+    border-color: rgb(192, 207, 207);
+    border-style: dotted none none;
+    border-width: 5px;
+    width: 100%;
+    margin-top: 30px;
+}
+
+.container{
+    width: 80%;
+}
+
+h4{
+    color: white;
+}
